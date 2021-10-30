@@ -1,6 +1,6 @@
 # Collection of React Hooks
 -
-- 
+
 ## Website
 
 [https://nikgraf.github.io/react-hooks/](https://nikgraf.github.io/react-hooks/)
