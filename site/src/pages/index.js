@@ -118,7 +118,7 @@ const IndexPage = () => {
   return (
     <Layout>
       <p>
-        You can add your hooks by opening a pull-request at{" "}
+        You can contribute your hooks by opening a pull-request at{" "}
         <a href={"https://github.com/nikgraf/react-hooks"}>
           https://github.com/nikgraf/react-hooks
         </a>
