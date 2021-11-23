@@ -1,5 +1,6 @@
 # Collection of React Hooks
--
+
+deply : && gh-pages -d public
 
 ## Website
 https://github.com/nikgraf/react-hooks
