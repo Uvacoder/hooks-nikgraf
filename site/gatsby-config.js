@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: "Collection of React Hooks",
+    title: "Curated Collection of React Hooks",
   },
   plugins: [
     "gatsby-plugin-styled-components",
