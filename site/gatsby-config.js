@@ -22,5 +22,5 @@ module.exports = {
       },
     },
   ],
-  pathPrefix: "/react-hooks",
+  pathPrefix: "/hooks-nikgraf",
 };
