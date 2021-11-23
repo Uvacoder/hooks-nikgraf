@@ -1,4 +1,16 @@
 [
+    {
+    "name": "a/useaaa",
+    "tags": [
+      "useworker",
+      "web worker",
+      "background",
+      "heavy task",
+      "blocking UI"
+    ],
+    "repositoryUrl": "https://github.com/alewin/useWorker",
+    "importStatement": "import { useWorker } from '@koale/useworker'"
+  },
   {
     "name": "@koale/useWorker",
     "tags": [
